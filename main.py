@@ -33,7 +33,7 @@ form="""
       <input value="0" id="rot" type ="text" name="rot"/>
         <textarea name="text">{0}</textarea>
         <input type="submit"/>
-      </from>
+      </form>
     </body>
 </html>
 """
